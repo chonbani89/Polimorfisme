@@ -1,2 +1,0 @@
-# Polimorfisme
-tugas p.shobi
